@@ -1,0 +1,45 @@
+***  Installation Started 03/05/2000 14:00  ***
+Title: 3D Dreams v2.0 Player Installation
+Source: C:\PROGRAM FILES\SHELLS INTERACTIVE\3D DREAMS V2.0\REDIST\3DD20PLAYER.EXE
+File Copy: C:\My Documents\PUBLIC\Xtras\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\3D Dreams v2.0 Player
+RegDB Val: 3D Dreams v2.0 Player
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\3D Dreams v2.0 Player
+RegDB Val: C:\MYDOCU~1\PUBLIC\XTRAS\UNWISE.EXE C:\MYDOCU~1\PUBLIC\XTRAS\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+Made Dir: C:\WINDOWS\SYSTEM\macromed\shockwave
+Made Dir: C:\WINDOWS\SYSTEM\macromed\shockwave\xtras
+File Copy: C:\WINDOWS\SYSTEM\macromed\director\xtras\3ddplay.x32
+Made Dir: C:\WINDOWS\SYSTEM\macromed\shockwave\xtras\download
+Made Dir: C:\WINDOWS\SYSTEM\macromed\shockwave\xtras\download\shellsinteractivefilmart
+Made Dir: C:\WINDOWS\SYSTEM\macromed\shockwave\xtras\download\shellsinteractivefilmart\3DDreamsSpike
+File Copy: C:\WINDOWS\SYSTEM\macromed\shockwave\xtras\download\shellsinteractivefilmart\3DDreamsSpike\3ddplay.x32
+Made Dir: C:\Program Files\Netscape\Communicator\Program\plugins\np32dsw
+Made Dir: C:\Program Files\Netscape\Communicator\Program\plugins\np32dsw\xtras
+File Copy: C:\Program Files\Netscape\Communicator\Program\Plugins\np32dsw\xtras\3ddplay.x32
+RegDB Key: Software\Shells\3D Dreams\v2.0\Player\Properties
+RegDB Val: 1
+RegDB Name: Installed
+RegDB Root: 2
+RegDB Key: Software\Shells\3D Dreams\v2.0\Player\Properties
+RegDB Val: C:\WINDOWS\SYSTEM\macromed\shockwave\xtras\download\shellsinteractivefilmart\3DDreamsSpike\3ddplay.x32
+RegDB Name: InstallDir
+RegDB Root: 2
+RegDB Key: Software\Shells\3D Dreams\Spike Player
+RegDB Val: 1
+RegDB Name: AgreeToLic
+RegDB Root: 1
+Delete in-use files: On
+INI New: Created INI
+INI File: C:\My Documents\PUBLIC\Xtras\UNWISE.INI
+INI Sect: Settings
+INI Item: No Background
+INI Val: 0
+File Tree: C:\Program Files\Netscape\Communicator\Program\Plugins\np32dsw\xtras\3ddplay.x32
+File Tree: C:\WINDOWS\SYSTEM\macromed\director\xtras\3ddplay.x32
+File Tree: C:\WINDOWS\SYSTEM\macromed\shockwave\xtras\3ddplay.x32
+RegDB Tree: Software\Shells\3D Dreams\v2.0\Player\Properties
+RegDB Root: 2
